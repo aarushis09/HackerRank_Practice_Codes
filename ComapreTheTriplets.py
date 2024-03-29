@@ -13,7 +13,7 @@ for i in range(0,len(a)):
     if a[i]==b[i]:
         continue
             
-   
+# '*' sign makes a list not look like a list
     
 arr.append(Alice)
 arr.append(Bob)
